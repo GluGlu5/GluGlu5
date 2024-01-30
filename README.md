@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GluGlu5
-- 👀 I’m interested in computer games, paleontogy, handbal and ultimate flying disc
+- 👀 I’m interested in computer games, paleontology, handbal and ultimate flying disc
 - 🌱 I’m currently learning coding micro:bits
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
